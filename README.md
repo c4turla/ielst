@@ -6,7 +6,7 @@
 
 **Version:** 1.0
 **Date:** October 6, 2025
-**Prepared By:** [Your Name/Company Name]
+**Prepared By:** Kendariweb.com
 
 ## Project Overview
 
